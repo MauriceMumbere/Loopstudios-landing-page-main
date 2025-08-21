@@ -13,6 +13,11 @@ useHead({
 </script>
 <template>
   <div>
-    <h1>hello</h1>
+    <Header />
+    <div class="py-[7rem]">
+      <VrSection />
+      <CreationSection />
+    </div>
+    <Footer />
   </div>
 </template>
