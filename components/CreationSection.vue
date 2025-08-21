@@ -43,7 +43,7 @@ const datas = [
 ];
 </script>
 <template>
-  <section class="px-5 md:px-[10rem] py-[4rem] relative">
+  <section class="px-5 md:px-[10rem] py-[4rem] relative mt-[5rem]">
     <div class="flex justify-between items-center">
       <div class="text-center md:text-left">
         <h1 class="text-4xl md:text-6xl uppercase">Our creations</h1>
