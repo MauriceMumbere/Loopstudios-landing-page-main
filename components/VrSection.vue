@@ -12,7 +12,7 @@
         </h2>
       </div>
       <div>
-        <p class="max-w-[30rem] mt-7">
+        <p class="max-w-[30rem] mt-7 px-[3rem] md:px-0">
           Founded in 2011, Loopstudios has been producing world-class virtual
           reality projects for some of the best companies around the globe. Our
           award-winning creations have transformed businesses through digital
